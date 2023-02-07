@@ -1,0 +1,6 @@
+## Interface: 100005
+## Title: Restore Auction Sold Notification
+## Version: 1
+## Author: plusmouse
+
+Main.lua
